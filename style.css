@@ -1,0 +1,40 @@
+h1{
+
+
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-weight: 500;
+    color:blue;
+    
+}
+h2{
+
+
+
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.gray{
+
+
+
+  background: linear-gradient(300deg, #b300ff, #4cc6ff, #f6f9f9);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+
+}
+.profile-img{
+
+border-radius:50%;
+
+}
+.hey{
+
+display:flex;
+justify-content: center;
+align-items: center;
+
+
+}
